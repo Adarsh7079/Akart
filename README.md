@@ -13,6 +13,6 @@ An E-commerce Web App developed using MERN stack where user can buy and checkout
 
 ## Website
 
-[Website Link](https://nixlab-shop.herokuapp.com)
+[Website Link]([https://nixlab-shop.herokuapp.com](https://adarsh-paritosh-portfolio.vercel.app/))
 
 
